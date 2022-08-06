@@ -1,4 +1,4 @@
- <center> ![logo](https://document-export.canva.com/8jOyQ/DAFIlM8jOyQ/28/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20220806%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220806T134309Z&X-Amz-Expires=35499&X-Amz-Signature=7f47e3a80ca55c1faaf908d95b88febba057743fbd2e49eb866aa83f0459d517&X-Amz-SignedHeaders=host&response-expires=Sat%2C%2006%20Aug%202022%2023%3A34%3A48%20GMT) </center>
+![logo](https://document-export.canva.com/8jOyQ/DAFIlM8jOyQ/28/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20220806%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220806T134309Z&X-Amz-Expires=35499&X-Amz-Signature=7f47e3a80ca55c1faaf908d95b88febba057743fbd2e49eb866aa83f0459d517&X-Amz-SignedHeaders=host&response-expires=Sat%2C%2006%20Aug%202022%2023%3A34%3A48%20GMT)
 
 <h1 align="center">Hi 👋, I'm Shazia Ahmed</h1>
 <h3 align="center">A passionate web and App developer from Pakistan.</h3>
@@ -19,10 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shazia ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shazia ahmed" height="30" width="40" /></a>
-
-
-
-
+<a href="https://fb.com/shazia ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shazia ahmed" height="30" width="40" /></a>
 <a href="https://instagram.com/shazia ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shazia ahmed" height="30" width="40" /></a>
 </p>
 
